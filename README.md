@@ -24,3 +24,13 @@ A motivated and detail-oriented IT student currently pursuing a **Diploma in ICT
 
 https://github.com/user-attachments/assets/e4d7a435-8f4e-4da3-8e09-0c8fd71231bf
 
+Reflective Practice
+1. Technological Capability & Application
+Throughout my third year at CPUT, I have transitioned from learning syntax to building functional, real-world solutions. Developing the Student Enrollment Management System was a pivotal moment in my technical growth. By using Java Swing for the frontend and the DAO (Data Access Object) pattern for database management, I learned how to create modular, maintainable code. Integrating a MySQL database using NetBeans taught me the importance of data integrity and secure authentication—skills that are essential for any Application Developer.
+
+2. Resilience & Problem Solving
+The journey from completing my Higher Certificate in ICT to pursuing this Diploma in App Development has required significant resilience. In my projects, I often encountered complex bugs, particularly when handling database connectivity and CRUD logic. Instead of giving up, I utilized critical thinking and resources like documentation to troubleshoot these issues. This process has taught me that software development is as much about persistence and problem-solving as it is about writing code.
+
+3. Professional Growth & Graduate Attributes
+My time in the ICT program has equipped me with key graduate attributes, specifically Technological Capability and Self-Motivation. My GitHub portfolio and mock interview preparation represent my readiness to enter the professional workspace. I have learned to view feedback as a tool for improvement and have become adept at working both independently and within a team to achieve project milestones. I am eager to apply this academic foundation to solve technical challenges in a professional IT environment.
+
