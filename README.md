@@ -19,3 +19,8 @@ A motivated and detail-oriented IT student currently pursuing a **Diploma in ICT
 - Developed a full-stack desktop application using **NetBeans**.
 - Implemented a relational database schema (MySQL/Derby) using the **DAO pattern**.
 - Built secure authentication and CRUD functionality using OOP principles.
+- ## Mock Interview
+
+
+https://github.com/user-attachments/assets/e4d7a435-8f4e-4da3-8e09-0c8fd71231bf
+
