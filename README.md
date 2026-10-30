@@ -14,7 +14,8 @@
 
 Below is proof of my verified **GitHub Student Developer Account** linked to my official CPUT student credentials.
 
-![GitHub Student Status](https://github.com/user-attachments/assets/e12e8d8f-72f7-4818-888f-b78dab139795)
+<img width="1358" height="628" alt="Screenshot 2026-10-30 174756" src="https://github.com/user-attachments/assets/bad600e4-ac61-48ef-ba96-cfe5f37410ed" />
+
 
 ---
 
