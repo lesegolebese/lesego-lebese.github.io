@@ -6,7 +6,7 @@
 **Subject Code:**  PRP372S  
 **Date:** October 2026  
 **Status:** ✅ Complete & Production Ready  
-**Live Site:** [https://lesegolebese.github.io/](https://lesegolebese.github.io/)
+**Live Site:**[ [https://lesegolebese.github.io/](https://lesegolebese.github.io/)](https://lesegolebese.github.io/lesego-lebese.github.io/)
 
 ---
 
