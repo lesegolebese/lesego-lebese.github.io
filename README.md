@@ -1,4 +1,4 @@
-# Work Readiness & Agile Digital Portfolio — PRP370S Assessment 2
+# Work Readiness & Agile Digital Portfolio 
 
 **Student Name:** Lesego Lebese  
 **Qualification:** Diploma in ICT: Application Development  
